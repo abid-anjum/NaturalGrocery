@@ -9,25 +9,25 @@
       "id": 1,
       "name": "Beverages",
       "color": "#fbc831",
-      "image": "http://tutofox.com/foodapp//categories/american.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/beverage.png"
     },
     {
       "id": 2,
       "name": "Bread/Bakery",
       "color": "#9fd236",
-      "image": "http://tutofox.com/foodapp//categories/burger.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/breadbakery.png"
     },
     {
       "id": 3,
       "name": "Canned/Jarred Goods ",
       "color": "orange",
-      "image": "http://tutofox.com/foodapp//categories/pizza.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/CannedJarred.png"
     },
     {
       "id": 4,
       "name": "Dairy",
       "color": "#f2f2f2",
-      "image": "http://tutofox.com/foodapp//categories/drink.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/dairy.png"
     },
    {
       "id": 5,
@@ -39,13 +39,13 @@
       "id": 6,
       "name": "Frozen Foods",
       "color": "#f2f2f2",
-      "image": "http://tutofox.com/foodapp//categories/drink.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/frozenfood.png"
     },
  {
       "id": 7,
       "name": "Meat",
       "color": "#f2f2f2",
-      "image": "http://tutofox.com/foodapp//categories/drink.png"
+      "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/Meat.png"
     }
   ],
   "food": [
