@@ -13,13 +13,13 @@
     },
     {
       "id": 2,
-      "name": "Bread/Bakery",
+      "name": "Bread & Bakery",
       "color": "#9fd236",
       "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/breadbakery.png"
     },
     {
       "id": 3,
-      "name": "Canned/Jarred Goods ",
+      "name": "Canned & Jarred ",
       "color": "orange",
       "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/CannedJarred.png"
     },
@@ -31,7 +31,7 @@
     },
    {
       "id": 5,
-      "name": "Dry/Baking Good",
+      "name": "Dry & Baking",
       "color": "#f2f2f2",
       "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/DryBakingGoods.png"
     },
