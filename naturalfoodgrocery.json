@@ -43,50 +43,50 @@
     },
  {
       "id": 7,
-      "name": "Meat",
+      "name": "Meat & Fruit",
       "color": "#f2f2f2",
       "image": "https://raw.githubusercontent.com/abidanjum2019/NaturalGrocery/master/Meat.png"
     }
   ],
   "food": [
     {
-      "name": "Beef Grill",
+      "name": "Coffee",
       "price": 24,
       "categorie": 1,
       "image": "http://tutofox.com/foodapp//food/american/beef-grill.png"
     },
     {
-      "name": "Chicken Picatta",
+      "name": "Tea",
       "price": 20,
       "categorie": 1,
       "image": "http://tutofox.com/foodapp//food/american/chicken-piccata.png"
     },
     {
-      "name": "Chicken Romesco",
+      "name": "Juice",
       "price": 21,
       "categorie": 1,
       "image": "http://tutofox.com/foodapp//food/american/chicken-romesco.png"
     },
     {
-      "name": "Chicken Grill",
+      "name": "Soda",
       "price": 22,
       "categorie": 1,
       "image": "http://tutofox.com/foodapp//food/american/chicken-grill.png"
     },
     {
-      "name": "Salmon Grill",
+      "name": "Sandwich loaves",
       "price": 26,
-      "categorie": 1,
+      "categorie": 2,
       "image": "http://tutofox.com/foodapp//food/american/salmon-grill.png"
     },
     {
-      "name": "Salmon Romesco",
+      "name": "Dinner rolls",
       "price": 25,
-      "categorie": 1,
+      "categorie": 2,
       "image": "http://tutofox.com/foodapp//food/american/salmon-romesco.png"
     },
     {
-      "name": "Burger Home",
+      "name": "Tortillas",
       "price": 16,
       "categorie": 2,
       "image": "http://tutofox.com/foodapp//food/burger/burger-1.png"
@@ -98,88 +98,151 @@
       "image": "http://tutofox.com/foodapp//food/burger/burger-2.png"
     },
     {
-      "name": "Burger Special",
+      "name": "Bagels",
       "price": 16,
       "categorie": 2,
       "image": "http://tutofox.com/foodapp//food/burger/burger-3.png"
     },
     {
-      "name": "Burger Cheese",
+      "name": "Vegetables",
       "price": 16,
-      "categorie": 2,
+      "categorie": 3,
       "image": "http://tutofox.com/foodapp//food/burger/burger-4.png"
     },
     {
-      "name": "Burger Farmer",
+      "name": "Spaghetti Sauce,",
       "price": 16,
-      "categorie": 1,
+      "categorie": 3,
       "image": "http://tutofox.com/foodapp//food/burger/burger-5.png"
     },
     {
-      "name": "Mini Burger",
+      "name": "Ketchup",
       "price": 16,
-      "categorie": 2,
+      "categorie": 3,
       "image": "http://tutofox.com/foodapp//food/burger/burger-6.png"
     },
     {
-      "name": "Pizza Vegan",
+      "name": "Cheeses",
       "price": 14,
-      "categorie": 3,
+      "categorie": 4,
       "image": "http://tutofox.com/foodapp//food/pizza/pizza-1.png"
     },
     {
-      "name": "Pizza Bufalisimo",
+      "name": "Eggs",
       "price": 14,
-      "categorie": 3,
+      "categorie": 4,
       "image": "http://tutofox.com/foodapp//food/pizza/pizza-2.png"
     },
     {
-      "name": "Pizza Haiwaiana",
+      "name": "Milk",
       "price": 13,
-      "categorie": 3,
+      "categorie": 4,
       "image": "http://tutofox.com/foodapp//food/pizza/pizza-3.png"
     },
     {
-      "name": "Pizza Peperoni",
+      "name": "Yogurt",
       "price": 16,
-      "categorie": 3,
+      "categorie": 4,
       "image": "http://tutofox.com/foodapp//food/pizza/pizza-4.png"
     },
     {
-      "name": "Pizza Vegan 2",
+      "name": "Butter",
       "price": 12,
-      "categorie": 3,
+      "categorie": 4,
       "image": "http://tutofox.com/foodapp//food/pizza/pizza-5.png"
     },
     {
-      "name": "Pizza Napolitana",
+      "name": "Cereals",
       "price": 18,
-      "categorie": 3,
+      "categorie": 5,
       "image": "http://tutofox.com/foodapp//food/pizza/pizza-6.png"
     },
     {
-      "name": "Coca cola",
+      "name": "Flour",
       "price": 2,
-      "categorie": 4,
+      "categorie": 5,
       "image": "http://tutofox.com/foodapp//food/drink/cocacola.png"
     },
     {
-      "name": "Pepsi",
+      "name": "Sugar",
       "price": 2,
-      "categorie": 4,
+      "categorie": 5,
       "image": "http://tutofox.com/foodapp//food/drink/pepsi.png"
     },
     {
-      "name": "Quatro",
+      "name": "Pasta",
       "price": 2,
-      "categorie": 4,
+      "categorie": 5,
       "image": "http://tutofox.com/foodapp//food/drink/quatro.png"
     },
     {
-      "name": "Sprite",
+      "name": "Mixes",
       "price": 2,
-      "categorie": 4,
+      "categorie": 5,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    },
+     {
+      "name": "Waffles",
+      "price": 25,
+      "categorie": 6,
       "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
     }
+    ,
+     {
+      "name": "Vegetables",
+      "price": 25,
+      "categorie": 6,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+     ,
+     {
+      "name": "Individual meals",
+      "price": 25,
+      "categorie": 6,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+    ,
+     {
+      "name": "Ice cream",
+      "price": 25,
+      "categorie": 6,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+     ,
+     {
+      "name": "Lunch meat",
+      "price": 25,
+      "categorie": 7,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+     ,
+     {
+      "name": "Poultry",
+      "price": 25,
+      "categorie": 7,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+     ,
+     {
+      "name": "Beef",
+      "price": 25,
+      "categorie": 7,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+     ,
+     {
+      "name": "Fruit",
+      "price": 25,
+      "categorie": 7,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+     ,
+     {
+      "name": "Vegetables",
+      "price": 25,
+      "categorie": 7,
+      "image": "http://tutofox.com/foodapp//food/drink/sprite.png"
+    }
+    
   ]
 }
